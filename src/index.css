@@ -5,9 +5,72 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: grey;
+  color:blue;
+text-align: center;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.moneyminus{
+  color: red;
+}
+
+
+li{
+  list-style: none;
+  font-size: 22px;
+  
+}
+
+input{
+  background-color: black;
+  color: white;
+  font-size: 18px;
+  margin-top: 15px;
+}
+
+
+.check{
+  border: 5px solid gainsboro;
+  box-shadow: 5px 5px 5px gainsboro;
+  font-weight: bolder;
+  padding: 30px;
+}
+ 
+
+
+.btn{
+  background-color: darkblue;
+  color: gainsboro;
+  margin-top: 15px;
+}
+
+h1{
+  color:black;
+}
+
+.incexp{
+  font-size: 20px;
+  border: 5px solid gainsboro;
+  box-shadow: 5px 5px 5px rgb(26, 25, 25);
+  padding: 20px;
+  font-size: larger;
+  font-weight: bolder;
+}
+
+label{
+  font-weight: bolder;
+}
+
+.for-trans{
+  border: 5px solid gainsboro;
+  box-shadow: 5px 5px 5px rgb(26, 25, 25);
+  padding: 20px;
+}
+
+.delete-btn{
+  background-color: rgb(26, 25, 25,0.2);
+}
+
+p{
+  font-size: 20px;
 }
