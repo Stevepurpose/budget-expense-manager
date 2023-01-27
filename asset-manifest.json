@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/budget-expense-manager/static/css/main.8edcce4f.css",
+    "main.js": "/budget-expense-manager/static/js/main.672216d4.js",
+    "index.html": "/budget-expense-manager/index.html",
+    "main.8edcce4f.css.map": "/budget-expense-manager/static/css/main.8edcce4f.css.map",
+    "main.672216d4.js.map": "/budget-expense-manager/static/js/main.672216d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8edcce4f.css",
+    "static/js/main.672216d4.js"
+  ]
+}
